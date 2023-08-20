@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "./static/css/main.fab85015.css",
+    "main.js": "./static/js/main.686d28f3.js",
+    "static/js/787.0c98eb7f.chunk.js": "./static/js/787.0c98eb7f.chunk.js",
+    "static/media/driving_old.gif": "./static/media/driving_old.eab854234fca3ec1c2cb.gif",
+    "static/media/fa-solid-900.ttf": "./static/media/fa-solid-900.4a2cd718d7031b732e76.ttf",
+    "static/media/fa-brands-400.ttf": "./static/media/fa-brands-400.150de8eaa454d669c405.ttf",
+    "static/media/fa-solid-900.woff2": "./static/media/fa-solid-900.bb975c966c37455a1bc3.woff2",
+    "static/media/fa-brands-400.woff2": "./static/media/fa-brands-400.e033a13ee751afc1860c.woff2",
+    "static/media/pic-1.png": "./static/media/pic-1.b105fe43e8bf62808d9f.png",
+    "static/media/pic-2.png": "./static/media/pic-2.5d5e42bfc8bc3622b556.png",
+    "static/media/fa-regular-400.ttf": "./static/media/fa-regular-400.d87474231f4192884802.ttf",
+    "static/media/newdl.png": "./static/media/newdl.b7172abea6af51efe968.png",
+    "static/media/pic-3.png": "./static/media/pic-3.1ef1ecba9db4ad9c12c8.png",
+    "static/media/passport.png": "./static/media/passport.10a00252ff1934b11e9f.png",
+    "static/media/olddl.png": "./static/media/olddl.7da7689499f11604203a.png",
+    "static/media/nationalid.png": "./static/media/nationalid.316c875f03f2e80ac897.png",
+    "static/media/website-welcome-message-examples.jpg": "./static/media/website-welcome-message-examples.7a77156250763540eb19.jpg",
+    "static/media/think-before-you-print-logo-removebg-preview.png": "./static/media/think-before-you-print-logo-removebg-preview.3197e08c9f4c26611bc8.png",
+    "static/media/avms logo02-01.png": "./static/media/avms logo02-01.45d81708c45e4e81c910.png",
+    "static/media/fa-regular-400.woff2": "./static/media/fa-regular-400.3223dc79c1adee56370b.woff2",
+    "static/media/time_5246266.png": "./static/media/time_5246266.05b442dd0219fb15cace.png",
+    "static/media/calendar_2693507.png": "./static/media/calendar_2693507.752b90a8a7a28241a67e.png",
+    "static/media/printQr.png": "./static/media/printQr.ce8c6f52059623acffb3.png",
+    "static/media/image-3702.png": "./static/media/image-3702.30adc779e885b1d599ea.png",
+    "static/media/1436705.png": "./static/media/1436705.60c2f05251513b0d1e1a.png",
+    "static/media/fa-v4compatibility.ttf": "./static/media/fa-v4compatibility.0e3a648be390bd8cb094.ttf",
+    "static/media/fa-v4compatibility.woff2": "./static/media/fa-v4compatibility.68577e40f3e70067b5da.woff2",
+    "index.html": "./index.html",
+    "main.fab85015.css.map": "./static/css/main.fab85015.css.map",
+    "main.686d28f3.js.map": "./static/js/main.686d28f3.js.map",
+    "787.0c98eb7f.chunk.js.map": "./static/js/787.0c98eb7f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fab85015.css",
+    "static/js/main.686d28f3.js"
+  ]
+}
